@@ -1,6 +1,6 @@
 ﻿<!-- ------------- B A C K P A C K M A G E ------------- -->
 
-Demo einer WebGL Unity Applikation, gehostet auf gitpages - for free :) 
+> Demo einer WebGL Unity Applikation, gehostet auf gitpages
 
 
 ## <div allign="center"> BackpageMage
