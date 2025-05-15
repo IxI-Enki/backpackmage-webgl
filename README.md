@@ -9,15 +9,14 @@
 
 **[Start Game](https://ixi-enki.github.io/backpackmage-webgl/0.0.8f/)**
 
+---
+
+**[Dokumentation](https://github.com/IxI-Enki/backpackmage)**
+
+---
+
+###### <p align="center"> by Jan Ritt </p>
+
 </div>
 
 <!-- ------------------- 𓂍 ꂅnki 𓂍 -------------------- -->
-
-<!--
-> This GitHub page must only contain: 
-> - Build
-> - TemplateData
-> - .gitignore
-> - README.md
-> - index.html 
--->
