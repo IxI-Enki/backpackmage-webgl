@@ -2,7 +2,7 @@
 
 # <div allign="center"> BackpageMage
   
-[start game](https://ixi-enki.github.io/backpackmage-webgl/0.0.8.e/)
+[start game](https://ixi-enki.github.io/backpackmage-webgl/0.0.8f/)
 
 <!-- ------------------- 𓂍 ꂅnki 𓂍 -------------------- -->
 
