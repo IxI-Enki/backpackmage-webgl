@@ -1,17 +1,20 @@
-﻿<!-- ------------- B A C K P A C K M A G E ------------- -->
+﻿ 
+ <!-- ------------- B A C K P A C K M A G E ------------- -->
 
-> Demo einer WebGL Unity Applikation, gehostet auf gitpages
+# <div align="center">BackpackMage</div>
 
+> Eine Demo einer WebGL Unity Applikation, gehostet auf GitHub Pages
 
-## <div allign="center"> BackpageMage
-  
-# [start game](https://ixi-enki.github.io/backpackmage-webgl/0.0.8f/)
+<div align="center">
+
+**[Start Game](https://ixi-enki.github.io/backpackmage-webgl/0.0.8f/)**
 
 </div>
+
 <!-- ------------------- 𓂍 ꂅnki 𓂍 -------------------- -->
 
 <!--
-> this github page must only contain: 
+> This GitHub page must only contain: 
 > - Build
 > - TemplateData
 > - .gitignore
