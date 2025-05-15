@@ -5,3 +5,12 @@
 [start game](https://ixi-enki.github.io/backpackmage-webgl/)
 
 <!-- ------------------- 𓂍 ꂅnki 𓂍 -------------------- -->
+
+<!--
+> this github page must only contain: 
+> - Build
+> - TemplateData
+> - .gitignore
+> - README.md
+> - index.html 
+-->
