@@ -25,8 +25,9 @@
 
 ---
 
+<!--
 > ###### <p align="center"> by Jan Ritt </p>
-
+-->
 
 </div>
 
