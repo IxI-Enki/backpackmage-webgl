@@ -1,9 +1,13 @@
 ﻿<!-- ------------- B A C K P A C K M A G E ------------- -->
 
-# <div allign="center"> BackpageMage
-  
-[start game](https://ixi-enki.github.io/backpackmage-webgl/0.0.8f/)
+Demo einer WebGL Unity Applikation, gehostet auf gitpages - for free :) 
 
+
+## <div allign="center"> BackpageMage
+  
+# [start game](https://ixi-enki.github.io/backpackmage-webgl/0.0.8f/)
+
+</div>
 <!-- ------------------- 𓂍 ꂅnki 𓂍 -------------------- -->
 
 <!--
