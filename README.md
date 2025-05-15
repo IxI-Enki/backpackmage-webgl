@@ -3,19 +3,21 @@
 
 # <div align="center">BackpackMage</div>
 
-> Eine Demo einer WebGL Unity Applikation, gehostet auf GitHub Pages
+> ###### Demo einer *WebGL Unity* Applikation, gehostet auf *GitHub Pages*
 
 <div align="center">
 
-**[Start Game](https://ixi-enki.github.io/backpackmage-webgl/0.0.8f/)**
+- **[ Start Game ](https://ixi-enki.github.io/backpackmage-webgl/0.0.8f/)**
+  > <p align="right"> <sup> v0.0.8 </sup></p>
 
 ---
 
-**[Dokumentation](https://github.com/IxI-Enki/backpackmage)**
+*[Dokumentation](https://github.com/IxI-Enki/backpackmage)*
 
 ---
 
-###### <p align="center"> by Jan Ritt </p>
+> ###### <p align="center"> by Jan Ritt </p>
+
 
 </div>
 
