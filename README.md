@@ -29,7 +29,7 @@
 
 ---
 
-## *[ 📝❗ Zur Dokumentation geht's hier! ](https://github.com/IxI-Enki/backpackmage)*
+## *[ 📝 Zur Dokumentation geht's hier❗ ](https://github.com/IxI-Enki/backpackmage)*
 
 *<p align="center"> made by <b>Jan Ritt</b> </p>*
 
