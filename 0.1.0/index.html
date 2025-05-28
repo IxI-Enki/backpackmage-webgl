@@ -38,11 +38,11 @@
             }
 
             #unity-loading-bar {
+                  position: absolute;
                   background-color: #0e1116;
                   color: #9298a0;
                   padding: 10px;
                   border-radius: 5px;
-                  margin: 10px;
                   display: flex;
                   flex-direction: column;
                   align-items: center;
@@ -156,6 +156,7 @@
                   productName: "BackpackMage",
                   productVersion: "0.1.0",
                   showBanner: unityShowBanner,
+                  splashScreenStyle: "None" // Deaktiviert den Unity-Splashscreen
             };
 
             // By default, Unity keeps WebGL canvas render target size matched with
