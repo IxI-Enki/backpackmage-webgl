@@ -29,9 +29,7 @@
 ---
 
 ## *[ Zur Dokumentation geht's hier! ](https://github.com/IxI-Enki/backpackmage)*
-
----
-
+ 
 > ###### <p align="center"> by Jan Ritt </p>
 
 </div>
