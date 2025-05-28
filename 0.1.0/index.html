@@ -52,8 +52,9 @@
                   background-image: url('BackpackMage-Logo.png');
                   background-size: contain;
                   background-repeat: no-repeat;
-                  width: 100px;
+                  width: 300px;
                   height: 100px;
+                  display: block;
             }
 
             #unity-progress-bar-empty {
@@ -77,11 +78,19 @@
                   padding: 10px;
                   border-radius: 5px;
                   margin: 10px;
+                  display: none; /* Standardmäßig ausgeblendet */
+            }
+
+            #github-link-container {
+                  background-color: #0e1116;
+                  padding: 10px;
+                  border-radius: 5px;
+                  margin-top: 10px;
+                  text-align: center;
             }
 
             #github-link {
                   color: #9298a0;
-                  margin-top: 10px;
                   text-decoration: none;
             }
 
@@ -107,7 +116,10 @@
       <div id="unity-container" class="unity-desktop">
             <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>
             <div id="unity-loading-bar">
-                  <div id="unity-logo"></div>
+
+                  <div id="unity-logo">
+                        <img alt="logo" src="BackpackMage-Logo.png">
+                  </div>
                   <div id="unity-progress-bar-empty">
                         <div id="unity-progress-bar-full"></div>
                   </div>
@@ -115,16 +127,12 @@
             <div id="unity-warning"> </div>
             <button id="unity-fullscreen-button">Fullscreen</button>
       </div>
-      <a id="github-link" href="https://github.com/IxI-Enki" target="_blank">Back to my GitHub Profile</a>
+      <div id="github-link-container">
+            <a id="github-link" href="https://github.com/IxI-Enki" target="_blank">Back to my GitHub Profile</a>
+      </div>
       <script>
             var canvas = document.querySelector("#unity-canvas");
 
-            // Shows a temporary message banner/ribbon for a few seconds, or
-            // a permanent error message on top of the canvas if type=='error'.
-            // If type=='warning', a yellow highlight color is used.
-            // Modify or remove this function to customize the visually presented
-            // way that non-critical warnings and error messages are presented to the
-            // user.
             function unityShowBanner(msg, type) {
                   var warningBanner = document.querySelector("#unity-warning");
                   function updateBannerVisibility() {
@@ -156,41 +164,17 @@
                   productName: "BackpackMage",
                   productVersion: "0.1.0",
                   showBanner: unityShowBanner,
-                  splashScreenStyle: "None" // Deaktiviert den Unity-Splashscreen
+                  splashScreenStyle: "None"
             };
 
-            // By default, Unity keeps WebGL canvas render target size matched with
-            // the DOM size of the canvas element (scaled by window.devicePixelRatio)
-            // Set this to false if you want to decouple this synchronization from
-            // happening inside the engine, and you would instead like to size up
-            // the canvas DOM size and WebGL render target sizes yourself.
-            // config.matchWebGLToCanvasSize = false;
-
-            // If you would like all file writes inside Unity Application.persistentDataPath
-            // directory to automatically persist so that the contents are remembered when
-            // the user revisits the site the next time, uncomment the following line:
-            // config.autoSyncPersistentDataPath = true;
-            // This autosyncing is currently not the default behavior to avoid regressing
-            // existing user projects that might rely on the earlier manual
-            // JS_FileSystem_Sync() behavior, but in future Unity version, this will be
-            // expected to change.
-
             if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
-                  // Mobile device style: fill the whole browser client area with the game canvas:
-
                   var meta = document.createElement('meta');
                   meta.name = 'viewport';
                   meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
                   document.getElementsByTagName('head')[0].appendChild(meta);
                   document.querySelector("#unity-container").className = "unity-mobile";
                   canvas.className = "unity-mobile";
-
-                  // To lower canvas resolution on mobile devices to gain some
-                  // performance, uncomment the following line:
-                  // config.devicePixelRatio = 1;
-
             } else {
-                  // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
                   canvas.style.width = "960px";
                   canvas.style.height = "600px";
             }
@@ -207,14 +191,12 @@
                         document.querySelector("#unity-fullscreen-button").onclick = () => {
                               unityInstance.SetFullscreen(1);
                         };
-
                   }).catch((message) => {
                         alert(message);
                   });
             };
 
             document.body.appendChild(script);
-
       </script>
 </body>
 </html>
