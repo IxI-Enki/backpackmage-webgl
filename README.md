@@ -25,7 +25,7 @@
  | **[ 💾 Download .apk ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0.0.8-android.apk )** | <sup> v0.0.8 </sup> | ***Android*** | *Native, WebGL* |  
  | | | | |  
 
-  > <p align="center"> </p>
+  > <p align="center">  </p>
 
 ---
 
