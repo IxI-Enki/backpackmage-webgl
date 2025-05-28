@@ -3,9 +3,9 @@
 
 <div align="center"> 
 
-#  [ <img src="backpackmage-logo-vector.svg" alt="logo-text-vector" width=88%> ](https://ixi-enki.github.io/backpackmage-webgl/0.0.9/) 
+#  [ <img src="backpackmage-logo-vector.svg" alt="logo-text-vector" width=88%> ](https://ixi-enki.github.io/backpackmage-webgl/0.1.0/) 
 
-  <img src="BackpackMage-Logo.svg" alt="executeable-logo-vector" width=33%>
+   [ <img src="BackpackMage-Logo.svg" alt="executeable-logo-vector" width=33%> ](https://ixi-enki.github.io/backpackmage-webgl/0.1.0/)
 
 
 </div>
@@ -18,7 +18,7 @@
  |                                                                                   | Version             |   Platform  | *tested on*                      |  
  | :-------------------------------------------------------------------------------- | ------------------: | :---------: | :------------------------------- | 
  | | | | |  
- | **[ ▶️ Play Browser-Game 👈🏼 ](https://ixi-enki.github.io/backpackmage-webgl/0.0.9/)** | <sup> v0.0.8 </sup> |    🌐 ***WebGl***    |  *Brave, Opera, Chrome, Firefox*  |
+ | **[ ▶️ Play Browser-Game 👈🏼 ](https://ixi-enki.github.io/backpackmage-webgl/0.1.0/)** | <sup> v0.0.8 </sup> |    🌐 ***WebGl***    |  *Brave, Opera, Chrome, Firefox*  |
  | | | | |  
  | **[ 💾 Download .exe ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0.0.8-windows.x86_64.7z )** | <sup> v0.0.8 </sup> | ***Windows*** | *Native Windows 11, WebGL* |  
  | **[ 💾 Download .x86_64 ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0.0.8-linux.x86_64.7z )** | <sup> v0.0.8 </sup> | ***Linux*** | *Native Kali, Native Arch, WebGL* |  
