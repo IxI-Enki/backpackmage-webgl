@@ -30,7 +30,7 @@
 
 ## *[ Zur Dokumentation geht's hier! ](https://github.com/IxI-Enki/backpackmage)*
 
-<p align="center"> *made by* ***Jan Ritt*** </p>
+*<p align="center"> made by <b>Jan Ritt</b> </p>*
 
 </div>
 
