@@ -11,11 +11,12 @@
 </div>
 
 - 📌 Downloads & <br>
-- 📌 Live Demo der *WebGL* Applikation, (gehostet auf *GitHub Pages*) 
+- 📌 Live Demo der *WebGL* Applikation,
+  > <sub>(gehostet auf *GitHub Pages*)</sub>
 
 <div align="center">
 
-  > ###### * Die ausführbaren Anwendungen, die zum Download bereitgestellt sind, sind der WebGL Version gegenüber zu bevorzugen, da noch nicht alle Features vollständig auf die Benutzung mit WebGL optimiert sind. *
+  > ###### * <sub> Die ausführbaren Anwendungen, die zum Download bereitgestellt sind, sind der WebGL Version gegenüber zu bevorzugen, da noch nicht alle Features vollständig auf die Benutzung mit WebGL optimiert sind. </sub> *
 
  |                                                                                   | Version             |   Platform  | *tested on*                      |  
  | :-------------------------------------------------------------------------------- | ------------------: | :---------: | :------------------------------- | 
