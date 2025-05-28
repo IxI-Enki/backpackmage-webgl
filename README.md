@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  > ###### * <sub> Die <u>ausführbaren Anwendungen</u>, die zum Download bereitgestellt sind, sind <u>der WebGL Version gegenüber</u> zu <u>bevorzugen</u>, da noch nicht alle Features vollständig auf die Benutzung mit WebGL optimiert sind. </sub> *
+  > ###### * <sub> Die <ins>ausführbaren Anwendungen</ins>, die zum Download bereitgestellt sind, sind <ins>der WebGL Version gegenüber</ins> zu <ins>bevorzugen</ins>, da noch nicht alle Features vollständig auf die Benutzung mit WebGL optimiert sind. </sub> *
 
  |                                                                                   | Version             |   Platform  | *tested on*                      |  
  | :-------------------------------------------------------------------------------- | ------------------: | :---------: | :------------------------------- | 
@@ -34,7 +34,7 @@
 
 ## *[ 📝 Zur Dokumentation geht's hier❗ ](https://github.com/IxI-Enki/backpackmage)*
 
-*<p align="center"> <sup> made by </sup><b> Jan Ritt </b> <sub> Mai 2025 </sub></p>*
+*<p align="center"> <sup> made by </sup><b> Jan Ritt </b><sub> 2025 </sub></p>*
 
 </div>
 
