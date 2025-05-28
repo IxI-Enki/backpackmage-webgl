@@ -5,7 +5,82 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity Web Player | BackpackMage</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
-    <link rel="stylesheet" href="TemplateData/style.css">
+    <style>
+      body {
+        background-color: #020409;
+        color: white;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+
+      #unity-container {
+        background-color: #0e1116;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+      }
+
+      #unity-canvas {
+        background-color: #161b22;
+        border: 1px solid #3e444c;
+      }
+
+      #unity-loading-bar {
+        background-color: #0e1116;
+        color: #9298a0;
+        padding: 10px;
+        border-radius: 5px;
+        margin: 10px;
+      }
+
+      #unity-progress-bar-empty {
+        background-color: #3e444c;
+        border-radius: 5px;
+        margin: 10px 0;
+      }
+
+      #unity-progress-bar-full {
+        background-color: #9298a0;
+        border-radius: 5px;
+        height: 20px;
+        width: 0%;
+      }
+
+      #unity-warning {
+        background-color: #161b22;
+        color: #9298a0;
+        padding: 10px;
+        border-radius: 5px;
+        margin: 10px;
+      }
+
+      #unity-footer {
+        background-color: #0e1116;
+        color: #9298a0;
+        padding: 10px;
+        border-radius: 5px;
+        margin: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      #unity-fullscreen-button {
+        background-color: #161b22;
+        color: white;
+        border: none;
+        padding: 5px 10px;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+      #unity-build-title {
+        color: white;
+      }
+    </style>
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
@@ -94,7 +169,6 @@
         // To lower canvas resolution on mobile devices to gain some
         // performance, uncomment the following line:
         // config.devicePixelRatio = 1;
-
 
       } else {
         // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
