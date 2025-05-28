@@ -3,9 +3,10 @@
 
 <div align="center"> 
 
+#  [ <img src="backpackmage-logo-vector.svg" alt="logo-text-vector" width=88%> ](https://ixi-enki.github.io/backpackmage-webgl/0.0.9/) 
+
   <img src="BackpackMage-Logo.svg" alt="executeable-logo-vector" width=33%>
 
-#  [ BackpackMage ](https://ixi-enki.github.io/backpackmage-webgl/0.0.9/) 
 
 </div>
 
