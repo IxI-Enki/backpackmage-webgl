@@ -10,9 +10,9 @@
 
 </div>
 
-- 📌 Downloads & <br>
-- 📌 Live Demo der *WebGL* Applikation,
-  > <sub>(gehostet auf *GitHub Pages*)</sub>
+- 📌 Downloads <br>
+- 📌 Live Demo der *WebGL* Applikation
+    > <sub>(gehostet auf *GitHub Pages*)</sub>
 
 <div align="center">
 
