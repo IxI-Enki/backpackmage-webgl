@@ -1,7 +1,13 @@
 ﻿ 
  <!-- ------------- B A C K P A C K M A G E ------------- -->
 
-# <div align="center"> [ BackpackMage ](https://ixi-enki.github.io/backpackmage-webgl/0.0.9/) </div>
+<div align="center"> 
+
+  <img src="BackpackMage-Logo.svg" alt="executeable-logo-vector" width=33%>
+
+#  [ BackpackMage ](https://ixi-enki.github.io/backpackmage-webgl/0.0.9/) 
+
+</div>
 
 > ###### Demo einer *WebGL Unity* Applikation, gehostet auf *GitHub Pages*
 
