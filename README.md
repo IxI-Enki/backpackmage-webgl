@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  > ###### * Die direkt-spielbaren Anwendungen, die zum Download bereitgestellt sind, sind der WebGL Version gegenüber zu bevorzugen, da noch nicht alle Features vollständig auf die Benutzung mit WebGL optimiert sind. *
+  > ###### * Die ausführbaren Anwendungen, die zum Download bereitgestellt sind, sind der WebGL Version gegenüber zu bevorzugen, da noch nicht alle Features vollständig auf die Benutzung mit WebGL optimiert sind. *
 
  |                                                                                   | Version             |   Platform  | *tested on*                      |  
  | :-------------------------------------------------------------------------------- | ------------------: | :---------: | :------------------------------- | 
