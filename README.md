@@ -11,7 +11,7 @@
 </div>
 
 - 📌 Downloads & <br>
-- 📌 Live Demo einer *Unity* Applikation, ( WebGL gehostet auf *GitHub Pages* ) 
+- 📌 Live Demo der *WebGL* Applikation, (gehostet auf *GitHub Pages*) 
 
 <div align="center">
 
