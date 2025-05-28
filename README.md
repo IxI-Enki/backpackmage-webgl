@@ -28,13 +28,11 @@
  | **[ 💾 Download .apk ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0.0.8-android.apk )** | <sup> v0.0.8 </sup> | ***Android*** | *Native, WebGL* |  
  | | | | |  
 
-  > <p align="center">  </p>
-
 ---
 
 ## 📝 *Zur Dokumentation geht's* [ hier❗ ](https://github.com/IxI-Enki/backpackmage)
 
-*<p align="center"> <sup> made by </sup><b> Jan Ritt </b><sub> 2025 </sub></p>*
+*<p align="center"> <sup> by </sup><b> 𓂍 ꂅnki 𓂍 </b><sub> 2025 </sub></p>*
 
 </div>
 
