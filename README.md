@@ -34,7 +34,7 @@
 
 ## *[ 📝 Zur Dokumentation geht's hier❗ ](https://github.com/IxI-Enki/backpackmage)*
 
-*<p align="center"> <sub> made by </sub><b>Jan Ritt</b> <sub> Mai 2025 </sub> </p>*
+*<p align="center"> <sup> made by </sup><b> Jan Ritt </b> <sub> Mai 2025 </sub></p>*
 
 </div>
 
