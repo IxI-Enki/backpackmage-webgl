@@ -9,8 +9,8 @@
 
 </div>
 
-> - ###### Downloads &  
-> - ###### Live Demo einer *Unity* Applikation, ( WebGL gehostet auf *GitHub Pages* ) 
+> - Downloads & <br>
+> - Live Demo einer *Unity* Applikation, ( WebGL gehostet auf *GitHub Pages* ) 
 
 <div align="center">
 
