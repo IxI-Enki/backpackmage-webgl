@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  > ###### * <sub> Die ausführbaren Anwendungen, die zum Download bereitgestellt sind, sind der WebGL Version gegenüber zu bevorzugen, da noch nicht alle Features vollständig auf die Benutzung mit WebGL optimiert sind. </sub> *
+  > ###### * <sub> Die <u>ausführbaren Anwendungen</u>, die zum Download bereitgestellt sind, sind <u>der WebGL Version gegenüber</u> zu <u>bevorzugen</u>, da noch nicht alle Features vollständig auf die Benutzung mit WebGL optimiert sind. </sub> *
 
  |                                                                                   | Version             |   Platform  | *tested on*                      |  
  | :-------------------------------------------------------------------------------- | ------------------: | :---------: | :------------------------------- | 
