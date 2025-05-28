@@ -32,7 +32,7 @@
 
 ## 📝 *Zur Dokumentation geht's* [ hier❗ ](https://github.com/IxI-Enki/backpackmage)
 
-*<p align="center"> <sub><sub> made 2025 by </sub></sub> <br> <b> 𓂍 ꂅnki 𓂍 </b>  </p>*
+*<p align="center"> <sub><sub> made 2025 by </sub></sub> <br> <b> 𓂍 ꂅnki 𓂍 </b> <br> <sub>Jan</sub> </p>*
 
 </div>
 
