@@ -21,7 +21,7 @@
  | | | | |  
  | **[ 💾 Download .x86_64 ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0.1.0-linux.x86_64.7z )** | <sup> v0.1.0 </sup> | ***Linux*** | *Native Kali, Native Arch* |  
  | | | | |  
- | **[ 💾 Download .apk ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0.1.0-android.apk )** | <sup> v0.1.0 </sup> | ***Android*** | *Native Android* |  
+ | **[ 💾 Download .apk ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0.1.0-android.7z )** | <sup> v0.1.0 </sup> | ***Android*** | *Native Android* |  
  | | | | | |  
  | **[ 💾 Download .ios ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0. )** | <sup> v0.1.0 </sup> | ***Apple*** | *🆘 leider nicht möglich* |  
  | | | | |  
