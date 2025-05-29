@@ -48,7 +48,7 @@
 
    <div align="center">
 
-   | **[ ▶️ Browser-Game 👈🏼 ](https://ixi-enki.github.io/backpackmage-webgl/0.1.0/)** | <sup> v0.1.0 </sup> |    🌐 ***WebGl***    |  *Brave, Opera, Chrome, Firefox*  |
+   | **[ ▶️ Browser-Game 👈🏼 ](https://ixi-enki.github.io/backpackmage-webgl/0.1.1/)** | <sup> v0.1.1 </sup> |    🌐 ***WebGl***    |  *Brave, Opera, Chrome, Firefox*  |
    |:--|--:|:-:|:--|  
 
 ---
