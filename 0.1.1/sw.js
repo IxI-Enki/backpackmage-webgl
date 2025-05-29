@@ -2,7 +2,7 @@ const CACHE_NAME = 'backpack-mage-cache-v1';
 const urlsToCache = [
       '/backpackmage-webgl/0.1.1/',
       '/backpackmage-webgl/0.1.1/index.html',
-      '/backpackmage-webgl/0.1.1/Build/0.1.11.loader.js',
+      '/backpackmage-webgl/0.1.1/Build/0.1.1.loader.js',
       '/backpackmage-webgl/0.1.1/Build/0.1.1.data.gz',
       '/backpackmage-webgl/0.1.1/Build/0.1.1.framework.js.gz',
       '/backpackmage-webgl/0.1.1/Build/0.1.1.wasm.gz',
