@@ -42,9 +42,10 @@
 ## 📌 Live Demo der *WebGL* Applikation  
   <sup>(gehostet auf *GitHub Pages*)</sup>
 
-<!--
   > [!IMPORTANT]  
   > <sub> *Die <ins>ausführbaren Anwendungen</ins>, die zum Download bereitgestellt sind, sind <ins>der WebGL Version gegenüber</ins> zu <u>bevorzugen</u>,<br>da noch nicht alle Features vollständig auf die Benutzung mit WebGL optimiert sind. </sub>
+
+<!--
 -->
 
    <div align="center">
