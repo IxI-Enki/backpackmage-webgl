@@ -12,6 +12,18 @@
 
 ## 📌 Downloads  
 
+<details>
+  <summary>  $\color{orange}{\ Klicke\ }$ 👉🏼 $\color{lime}{hier\ }\color{lightgray}{wenn\ du\ Hilfe\ beim\ downloaden\ benötigst.}$  
+  </summary>
+  
+- Jedes 7z-Archiv kann über den **Button** `Download raw file`, oben-rechts, einfach heruntergeladen werden.
+
+  > ###### Screenshot:
+  >  <img src="https://github.com/user-attachments/assets/a4326d7b-0438-44cf-a636-89e35750e407" alt="Erklärender Screenshot" Width=400px>
+ 
+</details>
+</div>
+
 <div align="center">
 
  |                                                                                   | Version             |   Platform  | *tested on*                      |  
