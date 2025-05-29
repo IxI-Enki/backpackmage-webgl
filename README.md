@@ -29,13 +29,13 @@
  |                                                                                   | Version             |   Platform  | *tested on*                      |  
  | :-------------------------------------------------------------------------------- | ------------------: | :---------: | :------------------------------- | 
  | | | | |  
- | **[ 💾 Download .exe ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0.0.8-windows.x86_64.7z )** | <sup> v0.0.8 </sup> | ***Windows*** | *Native Windows 11* |  
+ | **[ 💾 Download .exe ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0.1.0-windows.x86_64.7z )** | <sup> v0.1.0 </sup> | ***Windows*** | *Native Windows 11* |  
  | | | | |  
  | **[ 💾 Download .x86_64 ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0.1.0-linux.x86_64.7z )** | <sup> v0.1.0 </sup> | ***Linux*** | *Native Kali, Native Arch* |  
  | | | | |  
  | **[ 💾 Download .apk ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0.1.0-android.7z )** | <sup> v0.1.0 </sup> | ***Android*** | *Native Android* |  
  | | | | | |  
- | **[ 💾 Download .ios ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0. )** | <sup> v0.1.0 </sup> | ***Apple*** | *🆘 leider nicht möglich* |  
+ | **[ 💾 Download .ios ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0.1.0-mac.7z )** | <sup> v0.1.0 </sup> | ***Apple*** | *🆘 leider nicht möglich* |  
  | | | | |  
 
 </div>
