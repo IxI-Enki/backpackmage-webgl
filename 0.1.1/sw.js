@@ -1,14 +1,15 @@
 const CACHE_NAME = 'backpack-mage-cache-v1';
 const urlsToCache = [
-      '/',
-      '/index.html',
-      '/Build/0.1.11.loader.js',
-      '/Build/0.1.1.data.gz',
-      '/Build/0.1.1.framework.js.gz',
-      '/Build/0.1.1.wasm.gz',
-      '/BackpackMage-Logo.png',
-      '/lazyload.js'
+      '/backpackmage-webgl/0.1.1/',
+      '/backpackmage-webgl/0.1.1/index.html',
+      '/backpackmage-webgl/0.1.1/Build/0.1.11.loader.js',
+      '/backpackmage-webgl/0.1.1/Build/0.1.1.data.gz',
+      '/backpackmage-webgl/0.1.1/Build/0.1.1.framework.js.gz',
+      '/backpackmage-webgl/0.1.1/Build/0.1.1.wasm.gz',
+      '/backpackmage-webgl/0.1.1/BackpackMage-Logo.png',
+      '/backpackmage-webgl/0.1.1/lazyload.js'
 ];
+
 
 self.addEventListener('install', event => {
       event.waitUntil(
