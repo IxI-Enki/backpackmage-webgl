@@ -2,7 +2,7 @@ const CACHE_NAME = 'backpack-mage-cache-v1';
 const urlsToCache = [
       '/',
       '/index.html',
-      '/Build/0.1.1.loader.js',
+      '/Build/0.1.11.loader.js',
       '/Build/0.1.1.data.gz',
       '/Build/0.1.1.framework.js.gz',
       '/Build/0.1.1.wasm.gz',
