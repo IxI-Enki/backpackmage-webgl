@@ -10,13 +10,9 @@
 
 </div>
 
-- 📌 Downloads <br>
-- 📌 Live Demo der *WebGL* Applikation
-    > <sub>(gehostet auf *GitHub Pages*)</sub>
+## 📌 Downloads  
 
 <div align="center">
-
-  > ###### <sub> *Die <ins>ausführbaren Anwendungen</ins>, die zum Download bereitgestellt sind, sind <ins>der WebGL Version gegenüber</ins> zu <ins>bevorzugen</ins>, da noch nicht alle Features vollständig auf die Benutzung mit WebGL optimiert sind. </sub>
 
  |                                                                                   | Version             |   Platform  | *tested on*                      |  
  | :-------------------------------------------------------------------------------- | ------------------: | :---------: | :------------------------------- | 
@@ -27,10 +23,22 @@
  | | | | |  
  | **[ 💾 Download .apk ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0.0.8-android.apk )** | <sup> v0.1.0 </sup> | ***Android*** | *Native Android* |  
  | | | | | |  
- **[ 💾 Download .ios ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0. )** | <sup> v0.1.0 </sup> | ***Apple*** | *🆘 leider nicht möglich* |  
+ | **[ 💾 Download .ios ]( https://github.com/IxI-Enki/backpackmage-webgl/blob/master/downloads/backpackmage-0. )** | <sup> v0.1.0 </sup> | ***Apple*** | *🆘 leider nicht möglich* |  
  | | | | |  
- | **[ ▶️ Browser-Game 👈🏼 ](https://ixi-enki.github.io/backpackmage-webgl/0.1.0/)** | <sup> v0.1.0 </sup> |    🌐 ***WebGl***    |  *Brave, Opera, Chrome, Firefox*  |
- | | | | |  
+
+</div>
+
+## 📌 Live Demo der *WebGL* Applikation  
+  <sup>(gehostet auf *GitHub Pages*)</sup>
+
+  > [!IMPORTANT]  
+  > <sub> *Die <ins>ausführbaren Anwendungen</ins>, die zum Download bereitgestellt sind, sind <ins>der WebGL Version gegenüber</ins> zu <u>bevorzugen</u>,<br>da noch nicht alle Features vollständig auf die Benutzung mit WebGL optimiert sind. </sub>
+
+   <div align="center">
+
+   | **[ ▶️ Browser-Game 👈🏼 ](https://ixi-enki.github.io/backpackmage-webgl/0.1.0/)** | <sup> v0.1.0 </sup> |    🌐 ***WebGl***    |  *Brave, Opera, Chrome, Firefox*  |
+   |:--|--:|:-:|:--|  
+
 ---
 
 ## 📝 *Zur Dokumentation geht's* [ hier❗ ](https://github.com/IxI-Enki/backpackmage)
