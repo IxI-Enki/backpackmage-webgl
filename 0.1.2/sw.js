@@ -1,13 +1,13 @@
 const CACHE_NAME = 'backpack-mage-cache-v1';
 const urlsToCache = [
-      '/backpackmage-webgl/0.1.1/',
-      '/backpackmage-webgl/0.1.1/index.html',
-      '/backpackmage-webgl/0.1.1/Build/0.1.1.loader.js',
-      '/backpackmage-webgl/0.1.1/Build/0.1.1.data.gz',
-      '/backpackmage-webgl/0.1.1/Build/0.1.1.framework.js.gz',
-      '/backpackmage-webgl/0.1.1/Build/0.1.1.wasm.gz',
-      '/backpackmage-webgl/0.1.1/BackpackMage-Logo.png',
-      '/backpackmage-webgl/0.1.1/lazyload.js'
+      '/backpackmage-webgl/0.1.2/',
+      '/backpackmage-webgl/0.1.2/index.html',
+      '/backpackmage-webgl/0.1.2/Build/0.1.2.loader.js',
+      '/backpackmage-webgl/0.1.2/Build/0.1.2.data.gz',
+      '/backpackmage-webgl/0.1.2/Build/0.1.2.framework.js.gz',
+      '/backpackmage-webgl/0.1.2/Build/0.1.2.wasm.gz',
+      '/backpackmage-webgl/0.1.2/BackpackMage-Logo.png',
+      '/backpackmage-webgl/0.1.2/lazyload.js'
 ];
 
 
