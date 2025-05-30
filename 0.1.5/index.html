@@ -194,20 +194,20 @@
             }
 
             var buildUrl = "Build";
-            var loaderUrl = buildUrl + "/0.1.3.loader.js";
+            var loaderUrl = buildUrl + "/0.1.5.loader.js";
 
             // Check if the device is mobile
             var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 
             var config = {
                   arguments: ['isMobile=' + isMobile], // Pass the mobile status as an argument
-                  dataUrl: buildUrl + "/0.1.3.data",
-                  frameworkUrl: buildUrl + "/0.1.3.framework.js",
-                  codeUrl: buildUrl + "/0.1.3.wasm",
+                  dataUrl: buildUrl + "/0.1.5.data",
+                  frameworkUrl: buildUrl + "/0.1.5.framework.js",
+                  codeUrl: buildUrl + "/0.1.5.wasm",
                   streamingAssetsUrl: "StreamingAssets",
                   companyName: "NotYetAStudio",
                   productName: "BackpackMage",
-                  productVersion: "0.1.0",
+                  productVersion: "0.1.5",
                   showBanner: unityShowBanner,
             };
 
