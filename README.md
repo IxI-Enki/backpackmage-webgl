@@ -5,7 +5,7 @@
 
    [ <img src="BackpackMage-Logo.svg" alt="executeable-logo-vector" title="try Game now" width=33%> ](https://ixi-enki.github.io/backpackmage-webgl/0.1.5/)
 
-   [ <img src="backpackmage-logo-vector.svg" alt="logo-text-vector" title="try Game now" width=88%> ](https://ixi-enki.github.io/backpackmage-webgl/0.1.4/) 
+   [ <img src="backpackmage-logo-vector.svg" alt="logo-text-vector" title="try Game now" width=88%> ](https://ixi-enki.github.io/backpackmage-webgl/0.1.5/) 
 
 </div>
 
@@ -50,7 +50,7 @@
 
    <div align="center">
 
-   | **[ ▶️ Browser-Game 👈🏼 ](https://ixi-enki.github.io/backpackmage-webgl/0.1.4/)** | <sup> v0.1.4 </sup> |    🌐 ***WebGl***    |  *Brave, Opera, Chrome, Firefox*  |
+   | **[ ▶️ Browser-Game 👈🏼 ](https://ixi-enki.github.io/backpackmage-webgl/0.1.5/)** | <sup> v0.1.5web </sup> |    🌐 ***WebGl***    |  *Brave, Opera, Chrome, Firefox*  |
    |:--|--:|:-:|:--|  
 
 ---
